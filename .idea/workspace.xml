@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,10 +166,19 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Override the OnOptionsItemSelected method on the main activity">
+      <created>1602781747539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602781747539</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Override the OnOptionsItemSelected method on the main activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Override the OnOptionsItemSelected method on the main activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="967" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1602776600789">
@@ -183,30 +189,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="936" y="549" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602774057908" />
-    <state x="626" y="229" key="CommitChangelistDialog2" timestamp="1602773864526">
+    <state x="579" y="136" key="CommitChangelistDialog2" timestamp="1602781745765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="626" y="229" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602773864526" />
+    <state x="579" y="136" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602781745765" />
     <state x="868" y="415" key="FileChooserDialogImpl" timestamp="1602774147007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="868" y="415" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602774147007" />
-    <state width="1386" height="221" key="GridCell.Tab.0.bottom" timestamp="1602776660980">
+    <state width="1386" height="221" key="GridCell.Tab.0.bottom" timestamp="1602781904939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1386" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602776660980" />
-    <state width="1386" height="221" key="GridCell.Tab.0.center" timestamp="1602776660980">
+    <state width="1386" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602781904939" />
+    <state width="1386" height="221" key="GridCell.Tab.0.center" timestamp="1602781904939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1386" height="221" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602776660980" />
-    <state width="1386" height="221" key="GridCell.Tab.0.left" timestamp="1602776660980">
+    <state width="1386" height="221" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602781904939" />
+    <state width="1386" height="221" key="GridCell.Tab.0.left" timestamp="1602781904939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1386" height="221" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602776660980" />
-    <state width="1386" height="221" key="GridCell.Tab.0.right" timestamp="1602776660980">
+    <state width="1386" height="221" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602781904939" />
+    <state width="1386" height="221" key="GridCell.Tab.0.right" timestamp="1602781904939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1386" height="221" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602776660980" />
+    <state width="1386" height="221" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602781904939" />
     <state x="784" y="484" key="com.intellij.ide.util.TipDialog" timestamp="1602773401609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
